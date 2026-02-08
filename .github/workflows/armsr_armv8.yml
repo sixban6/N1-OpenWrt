@@ -99,7 +99,7 @@ jobs:
         PACKAGE_SOC: diy
         GZIP_IMGS: .xz
         SCRIPT_DIY_PATH: armsr/armv8/N1/mk_s905d_n1.sh
-        WHOAMI: nantayo
+        WHOAMI: sixban
         SW_FLOWOFFLOAD: 0
         SFE_FLOW: 0
 
